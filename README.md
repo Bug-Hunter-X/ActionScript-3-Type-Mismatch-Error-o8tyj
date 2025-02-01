@@ -1,0 +1,1 @@
+This repository demonstrates a common ActionScript 3 type mismatch error and its solution. The error occurs when passing incorrect data types to a function. The solution involves carefully checking and ensuring that the data types of function arguments and parameters match.
